@@ -2,6 +2,7 @@ target
 *.iws
 *.ipr
 *.iml
+.DS_Store
 .idea
 .settings
 .project
